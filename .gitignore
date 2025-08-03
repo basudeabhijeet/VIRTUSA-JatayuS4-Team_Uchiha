@@ -1,0 +1,15 @@
+# Large model folders
+models/
+encoder4editing/
+ganspace/
+hyperstyle/
+stylegan2-ada-pytorch/
+pretrained_models/
+
+# Python caches
+__pycache__/
+.vscode/
+
+# Logs and outputs
+static/outputs/
+static/uploads/

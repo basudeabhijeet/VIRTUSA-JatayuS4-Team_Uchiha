@@ -1,0 +1,10 @@
+# Placeholder for requirements.txt
+torch
+torchvision
+flask
+pillow
+numpy
+dlib
+scikit-image
+opencv-python
+tqdm
