@@ -1,4 +1,4 @@
-# Synthetic Face Generation for Creative Automation
+# Synthetic Face Generation for Creative Automation and Visual AI
 
 This project is a full-stack web application that leverages state-of-the-art generative models to create and semantically edit photorealistic synthetic faces. It addresses the challenge of creating high-quality, customizable human images, which is often expensive, time-consuming, and limited by privacy concerns.
 
